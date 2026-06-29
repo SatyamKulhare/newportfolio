@@ -10,7 +10,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 
 
 
-![Portfolio Preview](newportfolio-previewss.png)
+![Portfolio Preview]([newportfolio-previewss.png](https://github.com/SatyamKulhare/newportfolio/blob/main/previewss.png))
 
 ---
 
